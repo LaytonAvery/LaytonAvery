@@ -1,8 +1,8 @@
 ### Hi there 👋🏽 :hibiscus: :lollipop: 
 
 
-- 🔭 I’m currently working on a fitness site showcasing years worth of my favorite finds.
-- 🌱 I’m currently learning JS and React.
+- 🔭 I’m wrapping up a Digitalcrafts coding bootcamp and looking for full time employment opportunities.
+- 🌱 I’m currently learning React and Redux!
 - 💬 Ask me about my current project.
 - 📫 How to reach me: laytonavery5@gmail.com
 - 😄 Pronouns: she/her
