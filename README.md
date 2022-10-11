@@ -1,9 +1,7 @@
 ### Hi there 👋🏽 :hibiscus: :lollipop: 
 
-
-- 🔭 I just graduated from Digitalcrafts coding bootcamp, and I'm looking for full time employment opportunities.
-- 💬 My portfolio: http://layton-avery.surge.sh/
+- 🔭 I'm a software developer and respiratory therapist from Mobile, AL.
+- 🩺 I love all things related to medicine. 
 - 📫 How to reach me: laytonavery5@gmail.com or https://www.linkedin.com/in/laytonavery/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm very outgoing and have traveled all over Spain :es:
-
+- ⚡ Fun facts: I'm very outgoing, love to weightlift, and have traveled all over Spain :es:
